@@ -1,6 +1,7 @@
 # multi robot sweep coverage
 Matlab codes for the paper accepted in IEEE T-SMC.
 
+[![MRSC](demo.gif)](https://youtu.be/nBXupDJ9x94)
 ## Basic Usage
 [sweep.m](https://github.com/caomuqing/multi_robot_sweep_coverage/blob/main/sweep.m) runs the main algorithms.
 
