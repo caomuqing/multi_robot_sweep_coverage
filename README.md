@@ -1,4 +1,4 @@
-# multi_robot_sweep_coverage
+# multi robot sweep coverage
 Matlab codes for the paper accepted in IEEE T-SMC.
 
 ## Basic Usage
@@ -10,12 +10,17 @@ Using the data from the main algorithm, [sweep_animation2.m](https://github.com/
 
 ## Citation
 
-If you find this work useful, please cite [TO BE UPDATED](https://arxiv.org/abs/2305.00271) ([pdf](https://arxiv.org/abs/2305.00271), [video](https://youtu.be/igP7eaOyZuc)):
+If you find this work useful, please cite ([paper](https://ieeexplore.ieee.org/document/10168201), [video](https://youtu.be/igP7eaOyZuc)):
 
 ```bibtex
-  @inproceedings{Cao2023PathPF,
-  title={Path Planning for Multiple Tethered Robots Using Topological Braids},
-  author={Muqing Cao and Kun Cao and Shenghai Yuan and Kangcheng Liu and Yan Loi Wong and Lihua Xie},
-  year={2023}
-}
+  @ARTICLE{cao2023sweep,
+  author={Cao, Muqing and Cao, Kun and Li, Xiuxian and Xie, Lihua},
+  journal={IEEE Transactions on Systems, Man, and Cybernetics: Systems}, 
+  title={Distributed Control of Multirobot Sweep Coverage Over a Region With Unknown Workload Distribution}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-13},
+  doi={10.1109/TSMC.2023.3285264}}
+
 ```
