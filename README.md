@@ -10,7 +10,7 @@ Using the data from the main algorithm, [sweep_animation2.m](https://github.com/
 
 ## Citation
 
-If you find this work useful, please cite ([paper](https://ieeexplore.ieee.org/document/10168201), [video](https://youtu.be/igP7eaOyZuc)):
+If you find this work useful, please cite ([paper](https://ieeexplore.ieee.org/document/10168201), [video](https://youtu.be/nBXupDJ9x94)):
 
 ```bibtex
   @ARTICLE{cao2023sweep,
